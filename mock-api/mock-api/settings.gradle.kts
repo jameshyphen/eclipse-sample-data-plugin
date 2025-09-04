@@ -1,2 +1,4 @@
 rootProject.name = "mock-api"
-include("application", "repository", "boot")
+include("repository", "boot")
+
+include("domain")
