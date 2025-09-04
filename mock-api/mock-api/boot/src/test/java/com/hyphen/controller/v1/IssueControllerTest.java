@@ -1,4 +1,3 @@
-// boot/src/test/java/com/hyphen/boot/api/IssueControllerTest.java
 package com.hyphen.controller.v1;
 
 import org.junit.jupiter.api.Test;
