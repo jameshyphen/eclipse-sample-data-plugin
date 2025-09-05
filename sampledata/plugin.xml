@@ -22,7 +22,7 @@
       <perspectiveExtension
             targetID="org.eclipse.jdt.ui.JavaPerspective">
          <view
-               id="com.hyphen.sampledata.views.SampleView"
+               id="com.hyphen.sampledata.views.IssuesView"
                relative="org.eclipse.ui.views.ProblemView"
                relationship="right"
                ratio="0.5">
