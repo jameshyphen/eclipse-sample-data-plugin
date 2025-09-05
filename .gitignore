@@ -2,3 +2,11 @@
 mock-api/.idea/
 
 mock-api/mock-api/.idea/
+
+sampledata/.settings/
+
+sampledata/bin/
+
+*/.DS_Store
+
+sampledata/icons/.DS_Store
