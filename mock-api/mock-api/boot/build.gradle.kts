@@ -2,6 +2,8 @@ plugins {
     id("java")
 
     id("org.springframework.boot") version "3.4.5"
+
+    application
 }
 
 group = "com.hyphen"
@@ -24,4 +26,8 @@ dependencies {
 
 tasks.test {
     useJUnitPlatform()
+}
+
+application {
+    mainClass.set("com.hyphen.MockApiApplication")
 }
