@@ -21,7 +21,7 @@ import java.util.function.Function;
 
 public class IssuesView extends ViewPart {
 
-	public static final String ID = "com.hyphen.sampledata.views.SampleDataView";
+	public static final String ID = "com.hyphen.sampledata.views.IssuesView";
 
 	/** Allow overriding the API base via JVM arg: -Dissues.api=http://host:port */
 	private static final URI API_BASE = URI.create(System.getProperty("issues.api", "http://localhost:8080"));
